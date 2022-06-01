@@ -1,0 +1,1 @@
+This is the Qt Quick application for adding settings to the reMarkable tcp-server, which can be found in the refeat/tcp-server folder. The window-application folder, contains code that is executable in Windows 10. The application does not depend on a Qt installation.
